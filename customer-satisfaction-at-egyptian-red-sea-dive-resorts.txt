@@ -1,0 +1,735 @@
+Article
+Big Data Insights into Coastal Tourism: Analyzing Customer
+Satisfaction at Egyptian Red Sea Dive Resorts
+Yinai Zhong 1
+, Angellie Williady 2
+, Narariya Dita Handani 3,4 and Hak-Seon Kim 5,*
+1 Department of Global Hospitality Management, Kyungsung University, Busan 48434, Republic of Korea;
+yinai@ks.ac.kr
+2 Department of Global Business, Kyungsung University, Busan 48434, Republic of Korea;
+angelwilliady@ks.ac.kr
+3 School of Global Studies, Kyungsung University, Busan 48434, Republic of Korea; narariya0624@ks.ac.kr
+4 Department of Management, Faculty of Economics and Business, Universitas Wijaya Kusuma Surabaya,
+Surabaya 60225, Indonesia
+5 School of Hospitality & Tourism Management, Kyungsung University, Busan 48434, Republic of Korea
+* Correspondence: kims@ks.ac.kr; Tel.: +82-51-663-4473
+Abstract: This research aims to explore the relationship between customer satisfaction and various
+extracted factors at dive resorts in the Red Sea, Egypt, utilizing a hybrid methodology of descriptive
+and diagnostic analytics applied to online review data. Employing techniques such as KH coder
+for text analysis, exploratory factor analysis (EFA), and linear regression, this study systematically
+identifies key elements that influence customer satisfaction. Findings reveal that activities related to
+diving and marine life markedly enhance guest satisfaction, underscoring the critical role these aspects
+play in the overall appeal of Egyptian coastal tourism. Conversely, areas such as dining and amenities
+were identified as needing improvement. The originality of this study lies in its application of big
+data analytics to dissect and understand customer feedback in a sector-specific context, providing
+strategic insights for the sustainable advancement of coastal tourism in Egypt. By focusing on dive
+resorts, this research highlights their integral role in coastal tourism and offers a model for leveraging
+online customer reviews to enhance service quality and promote sustainable practices within the
+tourism industry, contributing to the overall growth and sustainability of coastal tourism.
+Keywords: customer satisfaction; online reviews; big data analysis; coastal tourism; diving; dive
+resorts; Egyptian Red Sea
+1. Introduction
+Marine diving tourism, a global phenomenon, is a multi-billion-USD industry with
+over 6600 diving centers and resorts in 186 countries or territories, as reported by the Professional Association of Diving Instructors [1]. As a major component of the ocean economy,
+it attracts between 8.9 and 13.6 million diving tourists globally each year, supporting up to
+124,000 jobs [2]. This sector has grown rapidly, mirroring broader trends in coastal tourism.
+However, the high market demand and rapid development have created challenges in
+maintaining service quality.
+The Egyptian Red Sea, renowned for its rich natural and cultural resources, is a
+premier diving destination that significantly contributes to Egypt’s tourism strategy [3].
+Seventy-five percent of Egypt’s tourism activities are leisure-oriented, focusing on the
+Sinai Peninsula and the Red Sea, generating substantial revenue from its approximately
+1386 km coastline [4]. The region’s vibrant coral reefs attract millions of tourists, leading to
+significant ‘blue tourism’ development since the early 1990s, including a surge in hotels
+and accommodation facilities. The hospitality industry in Egypt has undergone significant
+transformation, particularly in the context of seaside-oriented tourism. Major coastal
+Tour. Hosp. 2024, 5, 996–1011. https://doi.org/10.3390/tourhosp5040056 https://www.mdpi.com/journal/tourismhosp
+Tour. Hosp. 2024, 5 997
+cities like Sharm El Sheikh, Hurghada, and Marsa Alam collectively account for over
+110,000 rooms, nearly 60% of the country’s total room capacity [5].
+Despite the pandemic, Egypt’s tourism sector continues to grow and show resilience.
+In 2023, Egypt’s tourism revenues grew by 8% year-on-year to USD 13.2 billion, with tourist
+arrivals increasing by 27.4% to 14.91 million [6]. Tourists spent an average of USD 93 per day
+and stayed for 9.5 nights. Egypt expects to attract 18 million tourists in 2024. The country
+also aims to boost annual tourism revenues from USD 12 billion to USD 30 billion over the
+next three years [7]. The Egyptian Red Sea coast, as a major tourist destination, attracts
+millions of tourists annually, generating billions of USD in foreign exchange and creating
+numerous job opportunities [8]. However, the rapid expansion of coastal tourism has led
+to challenges such as environmental degradation, coral reef damage, and coastal pollution,
+threatening sustainability [9]. Overcrowding and resource strain complicate destination
+management [5]. To enhance coastal tourism destination management, dive resorts, as a
+crucial part of coastal tourism, play a key role in promoting sustainable development by
+improving service quality and customer satisfaction.
+Digitization has made social media and internet search engines key sources of travel
+information, with about half of prospective tourists using social media to plan their vacations [10]. Big data analytics in hospitality facilitates extensive review analysis, providing
+insights into customer preferences and satisfaction to inform sustainable strategic decisions [11].
+While many studies link customer ratings to satisfaction in hotels [11–13], specific
+research on coastal hotels, particularly dive resorts, is limited. Given the multifaceted
+nature of coastal tourism, focusing on dive resorts is crucial to enhance understanding
+and improve customer satisfaction. Existing research on coastal tourism primarily addresses environmentally sustainable tourism [14,15], climate change [16,17], and market
+segmentation [18,19]. There is a significant gap in research on how dive resorts enhance
+customer satisfaction and achieve sustainable development in coastal tourism, highlighting
+the necessity for in-depth analysis and empirical studies in this field.
+Therefore, this study aims to investigate the relationship between the extracted factors
+and customer satisfaction at dive resorts through a combination of descriptive and diagnostic analytics applied to online review data. This research provides valuable insights for
+the sustainable development of Egypt’s Red Sea coastal tourism. Specifically, this study
+employs KH coder for text analysis and exploratory factor analysis (EFA), followed by
+linear regression analysis to determine the significant factors affecting customer satisfaction.
+The findings will enable dive resort operators to identify key attributes that can enhance
+customer satisfaction, improve operational efficiency, inform marketing strategies, and
+contribute to the success of coastal tourism in a highly competitive tourism industry. In
+conclusion, this study attempts to address the following research questions by exploring
+knowledge and insights from online customer reviews of dive resorts:
+• What key terms in online reviews best capture customers’ experiences at dive resorts,
+and what are the connections between these terms?
+• Which underlying factors influencing customer experiences at dive resorts can be
+identified through online reviews?
+• How do the identified factors impact overall customer satisfaction at dive resorts, and
+to what extent does each factor contribute?
+2. Theoretical Background
+2.1. The Definition and Relationship of Coastal Tourism and Dive Resorts
+Coastal tourism, as defined by the United Nations World Tourism Organization
+(UNWTO), includes a variety of land-based activities such as swimming, surfing, sunbathing, and other leisure, recreation, and sports activities that take place along the shores
+of seas, lakes, or rivers. The essential element is the proximity to the coastline, which
+supports the development of related services and facilities like hotels, restaurants, and
+Tour. Hosp. 2024, 5 998
+marinas [20]. This diverse array of recreation and leisure activities attracts tourists to coastal
+areas, fostering economic growth and the development of local infrastructure [21].
+Dive resorts are specialized businesses that integrate accommodation with diving activities, providing scuba diving services for both certified and non-certified divers through
+associations such as SDI (Scuba Diving International), SSI (Scuba Schools International),
+and PADI [22]. Unlike conventional accommodation, dive resorts feature on-site dive
+centers where guests can rent equipment, arrange boat trips to dive sites, and enroll in
+scuba diving courses conducted by trained staff or instructors [23]. In addition to diving
+services, these resorts offer a range of amenities and leisure activities, such as swimming
+pools, spas, beach access, restaurants, bars, and organized social events [22]. Dive resorts
+serve as central hubs for diving enthusiasts, providing comprehensive services to ensure a
+comfortable and immersive holiday experience.
+Dive resorts significantly contribute to facilitating coastal tourism. The relationship
+between coastal tourism and dive resorts is symbiotic. Coastal tourism provides the overarching framework within which dive resorts operate, as a thriving coastal tourism industry
+creates a conducive environment for their success. Dive resorts, in turn, enhance the appeal
+of coastal destinations by offering unique underwater experiences that attract specific
+interest groups, thereby driving infrastructure development and promoting environmental
+conservation efforts [24]. This mutual enhancement is essential for the sustainable growth
+of both sectors. Addressing environmental challenges such as degradation and pollution
+through sustainable practices is crucial to ensuring the long-term viability of coastal tourism
+and dive resorts [25]. Therefore, comprehensive research focused on the specific impacts
+and potential of dive resorts within coastal tourism is necessary for understanding and
+maximizing their benefits to local economies and communities.
+2.2. The Definition and Relationship of Customer Satisfaction and Online Reviews
+Satisfaction depends on individual expectations and subjective perceptions of service
+performance, with consumers evaluating service providers based on personal experiences [26,27]. Research indicates that satisfied customers are more likely to become loyal
+patrons, with a crucial impact on profitability and continuity of the organizations [28]. Furthermore, positive word-of-mouth recommendations from satisfied customers can attract
+new clients and enhance brand reputation [29].
+Customer satisfaction in tourism is influenced by various factors, such as the quality
+of products or services [30] and perceived value [31]. High-quality offerings and a sense
+of fair value for money are fundamental to increasing customer satisfaction. Additionally,
+interactions with employees play a significant role in shaping customer experiences [32].
+Other factors such as convenience, reliability, and responsiveness to complaints or queries
+also impact customer satisfaction [33].
+In tourism, online reviews and sentiments play a key role in shaping tourists’ decisions
+as people increasingly rely on the Internet for information [34]. These reviews, which
+typically consist of written comments or ratings, are available on websites, social media,
+and online marketplaces [12]. Online reviews can significantly influence potential buyers’
+perceptions of brands and their purchase decisions. Positive reviews can enhance a brand’s
+reputation and credibility [35], while negative reviews may deter potential customers from
+engaging with a particular product or service [36].
+In a digitally driven world, customer satisfaction and online reviews have become crucial factors in determining the success of a business. In the tourism industry, these reviews
+serve as a medium for sharing experiences and recommending destinations [37]. The proliferation of social media and online review sites has empowered customers, significantly
+influencing company reputations through feedback.
+The relationship between customer satisfaction and online reviews is multifaceted.
+Ratings offer a quick quantitative measure of satisfaction, while reviews provide qualitative
+insights into specific experiences. Together, they offer a fuller picture by quantifying
+satisfaction levels and explaining the reasons behind them, helping businesses identify
+Tour. Hosp. 2024, 5 999
+areas of strength and improvement. In many studies, review ratings are directly regarded
+as indicators of customer satisfaction [38,39].
+2.3. What Is Big Data Analysis?
+Digitalization has accelerated the demand for ecosystems in the tourism and hospitality industries to restructure business models in a data-driven direction to foster value
+creation and innovation [40]. The amount of data generated continues to grow exponentially, making it a critical field in recent years [41]. Big data analysis refers to extracting
+valuable insights from large and complex datasets [42]. Tourism and hospitality researchers
+are increasingly adopting big data approaches to retrieving, collecting, analyzing, reporting,
+and visualizing data [43]. Big Data encompasses huge datasets that challenge traditional
+data processing tools in management, processing, and analysis. These datasets originate
+from numerous sources and are distinguished by three key characteristics: volume (the
+sheer amount of data), velocity (the rapid rate at which data are generated and processed),
+and variety (the range of data types, including structured, semi-structured, and unstructured data) [42]. It involves various techniques such as data mining, machine learning, and
+statistical modeling [44].
+In the context of the hotel industry, it involves analyzing vast amounts of customerrelated information collected through various sources such as online bookings, social media
+interactions, loyalty programs, and customer feedback. By analyzing customer preferences
+and behavior patterns derived from big data analytics, hotels can offer personalized services
+tailored to individual customers’ needs [13].
+Based on previous studies, big data analytics encompasses four main types: descriptive, diagnostic, predictive, and prescriptive analytics. Descriptive analytics focuses on
+analyzing past data to understand what has happened. Diagnostic analytics digs deeper
+into data to determine the causes of past events. Predictive analytics employs statistical
+models and machine learning to forecast future outcomes. Lastly, prescriptive analytics
+suggests actions and advises on potential outcomes to achieve specific objectives. These
+analytic types offer a comprehensive approach to data analysis, from understanding past
+events to planning future actions [45,46].
+3. Methodology
+3.1. Study Design
+The research process was designed in two steps: data collection and data analysis, as
+shown in Figure 1. The purpose of the analysis was to examine the relationship between
+the extracted factors and customer satisfaction of dive resorts by analyzing the online
+review data.
+Figure 1. Research flow (source: authors).
+Tour. Hosp. 2024, 5 1000
+3.2. Data Collection
+This research is based on an exploratory study of online reviews from nine of the best
+Red Sea dive resorts by PADI recommended in 2022 [47]. The nine dive resorts are Reef
+Oasis Blue Bay Resort, Umbi Sharks Bay Diving Village, Reef Oasis Beach Resort, Maritim
+Jolie Ville Resort & Casino Sharm El Sheikh, Cataract Layalina Resort, Desert Rose Resort,
+Marsa Shagra Village, Abu Dabbi Lodge, and Hilton Marsa Alam Nubian Resort.
+The online reviews were collected from Google Maps using Outscraper 2024, an online
+API data mining software, as used in previous research [48]. The collected data included
+multilingual online review texts, numerical ratings, and additional information such as user
+names, upload times, emotion icons, and photographs. Due to the pandemic, there has been
+an increasing interest in new activities and attractions, leading to a rise in the popularity of
+various leisure activities [49]. With that, this study collected a total of 18,428 online reviews
+from November 2020 to November 2023, which were posted by customers within the last
+three years.
+For data pre-processing, from a total of 18,428 reviews, around 25% of reviews without
+any text were removed, and the remaining 75% of the reviews, including review text and
+ratings, were retained for analysis. These reviews removed irrelevant information such
+as Google ID, review link, review ID, author ID, author image, and other non-essential
+elements. The language of each review was identified using automatic language detection
+tools. Non-English reviews were translated into English using translation services to
+transform unstructured data into a structured format. KH Coder, a text-mining tool, was
+then used to eliminate stop words for more meaningful results. Consequently, after data
+pre-processing, 13,905 online textual reviews were analyzed.
+Copyright and data privacy requirements: As per the relevant local legislation in
+South Korea, ethical approval and informed consent were not required for this study. All
+necessary steps were taken to ensure compliance with copyright and privacy requirements.
+The online reviews were collected from Google Maps, and we followed the guidelines of
+Google Maps. The data utilized in this research fully adhered to the applicable legal and
+ethical standards, and no personally identifiable information was disclosed.
+3.3. Data Analysis
+First, the descriptive analytics process in this study utilized KH Coder to extract the top
+100 frequent words, group similar appearance patterns together, and visualize the relations
+between these words. KH Coder 3.0 is a software designed for organizing, analyzing,
+and understanding digitized text data through computer coding and quantitative analysis
+techniques [50]. Co-occurrence network analysis is employed to explore and visualize the
+relationships between entities within a dataset based on their simultaneous occurrence in
+the same context, such as a sentence, paragraph, or document. A co-occurrence network
+was created with the review ratings, and sentiment groups are visualized to identify
+distinctive words in each group [51].
+Second, for the process of diagnostic analytics, exploratory factor analysis (EFA)
+and linear regression analysis were carried out using SPSS 26.0. EFA is a data reduction
+technique used to simplify complex customer review data and to understand the variables
+contributing to overall customer satisfaction [52]. Linear regression indicates the strength
+and direction of the relationship between each independent variable and overall satisfaction
+scores [11]. The analysis helps to understand which factors from the online reviews
+significantly contribute to or influence customer satisfaction.
+4. Results
+4.1. Descriptive Analytics
+The data collection includes review ratings and review text for the analysis. Ratings
+from Google Maps serve as a crucial metric for gauging customer satisfaction. Each review
+is assigned a score on a scale from ‘1’ to ‘5’, with ‘1’ indicating the least satisfied reviewer
+and ‘5’ representing the most satisfied reviewer [53,54]. This numerical representation
+Tour. Hosp. 2024, 5 1001
+provides a straightforward method to assess and quantify overall satisfaction levels based
+on customer feedback.
+The distribution of the star ratings, which follows a J-shape, is shown in Figure 2. The
+review rating frequency indicates that the dive resort has received predominantly positive
+feedback. The average satisfaction score is 4.6 out of 5, with the majority of customers
+(79.3%) awarding a 5-star rating. Negative reviews are minimal, with only 2.8% and 1.6%
+of customers giving 1-star and 2-star ratings, respectively. Ratings of 3 stars and 4 stars are
+also relatively low, indicating that while most customers are highly satisfied, a few have
+experienced minor issues. This distribution suggests high overall customer satisfaction and
+implies that the resorts are likely to maintain a strong positive reputation. However, it is
+important to pay attention to the lower ratings to identify potential areas for improvement.
+2.8 1.6 4
+12.2
+79.3
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+12345
+Frequency Percentage (%)
+Figure 2. Distribution of overall satisfaction review ratings of customers.
+4.1.1. Word Frequency Analysis
+The analysis of the top 100 frequent words is laid out as shown in Table 1. The word
+‘hotel’ emerges as the most frequently mentioned, with 9049 occurrences, and ‘resort’ (1316)
+indicates that accommodation is a principal factor in customers’ experiences. This indicates
+that resorts serve as a foundation for the coastal tourism experience. Substantial mentions
+of ‘room’ (4267) and ‘beach’ (3785) suggest that the quality of lodging and proximity to
+the beach are paramount to coastal tourism customers. Dining (‘food’, ‘restaurant’) and
+customer service (‘staff’, ‘service’, ‘friendly’) are crucial to customer experiences.
+Notably, ‘diving’ (1257), the main activity associated with the Red Sea coastal tourism
+offering, ranks highly in frequency, emphasizing its significance in the Red Sea coastal
+tourism and reaffirming the resorts’ importance as a dive-related destination. The mention
+of ‘sea’, ‘reef’, ‘water’, ‘fish’, and ‘coral’ underscores the importance of the marine environment to the customers’ overall coastal tourism experience. Words such as ‘animation’,
+‘entertainment’, ‘show’, and ‘activity’ reflect the leisure activities offered by the resorts and
+their significance in customer satisfaction. While most of the frequent words are positive,
+terms such as ‘problem’, ‘bad’, ‘old’, and ‘small’ highlight areas of customer concern,
+suggesting room for improvement in certain aspects of the resort experience.
+Tour. Hosp. 2024, 5 1002
+Table 1. The top 100 frequent words.
+Words Freq. Words Freq. Words Freq. Words Freq.
+hotel 9049 diving 1257 guest 609 problem 427
+good 4984 child 1169 year 608 week 426
+room 4267 vacation 1089 experience 577 kitchen 415
+food 3882 super 1059 special 574 dinner 412
+beach 3785 water 951 old 564 fun 411
+staff 3743 amazing 919 bad 551 variety 403
+beautiful 3591 team 913 star 544 price 399
+service 2827 evening 909 small 539 coral 395
+nice 2526 delicious 886 quality 538 minute 393
+restaurant 2433 fish 861 swimming 523 polite 387
+great 2329 animator 822 employee 520 fantastic 385
+place 2274 tasty 795 comfortable 517 waiter 373
+pool 2232 helpful 768 entertainment 516 choice 371
+excellent 2050 number 751 perfect 496 bed 365
+friendly 2026 first 747 big 490 taste 363
+animation 1990 cool 730 different 473 free 354
+clean 1975 area 719 guy 471 nothing 353
+sea 1912 reception 706 view 466 several 351
+reef 1698 rest 677 pleasant 462 dish 350
+wonderful 1540 drink 668 show 458 towel 350
+bar 1517 level 640 same 454 green 349
+territory 1460 family 629 activity 446 Italian 345
+large 1396 stay 626 huge 441 better 342
+best 1392 holiday 621 facility 434 cleaning 337
+resort 1316 location 615 night 432 breakfast 335
+4.1.2. Co-Occurrence Network Analysis
+The co-occurrence network derived from the analysis of online reviews, depicted in
+Figure 3, illustrates the multifaceted and interconnected nature of the tourist experience
+in coastal tourism. Key themes identified include ‘hotel’, ‘beach’, ‘room’, ‘food’, ‘staff’,
+‘service’, and ‘clean’. These terms form central nodes with the highest frequency and
+co-occurrence with other terms, highlighting their importance to many customers.
+Figure 3. Co-occurrence network result.
+Tour. Hosp. 2024, 5 1003
+This network shows that coastal tourism is holistic, with various interlinked elements
+contributing to tourists’ satisfaction. Terms like ‘coral’, ‘reef’, ‘sea’, ‘fish’, and ‘diving’
+underscore the significance of marine life and diving activities in the Red Sea region. These
+elements work synergistically with other aspects to enhance the coastal tourism experience.
+Positive words like ‘beautiful’, ‘excellent’, and ‘friendly’ highlight the crucial role of
+the natural environment and quality customer service. Additionally, terms related to meals,
+such as ‘breakfast’, ‘lunch’, ‘dinner’, ‘restaurant’, and ‘food’, emphasize the importance of
+food services in the overall resort experience.
+The analysis reveals that every aspect, from accommodation and food to the marine
+environment and customer service, is interconnected and indispensable. Each element supports the others, creating a comprehensive and satisfying coastal tourism experience. This
+holistic approach ensures that any weakness in one area could impact overall satisfaction,
+highlighting the need for an integrated and high-quality offering across all facets of the
+tourist experience.
+4.1.3. Co-Occurrence Network Analysis with Rating
+The co-occurrence rating figure, which can be found in Figure 4, shows that the Red
+Sea coastal tourism reviews indicate a diverse range of experiences, with ratings from 1
+(most disappointed) to 5 (most satisfied). The data point towards a polarity in customer
+experiences, with significant words associated with high and low ratings.
+Figure 4. Co-occurrence network analysis with rating.
+The highest satisfaction ratings (5) co-occur with words like ‘wonderful’, ‘super’, ‘best’,
+‘delicious’, ‘excellent’, ‘beautiful’, ‘friendly’, ‘great’, ‘amazing’, and ‘vacation’, alongside
+central coastal tourism-related terms such as ‘resort’, ‘diving’, ‘reef’, ‘beach’, ‘sea’, and
+‘hotel’. The second-highest satisfaction rating (4) is associated with ‘good’, ‘service’, ‘place’,
+‘food’, and ‘staff’, indicating that these aspects are satisfactory to customers but may not
+reach the highest levels of acclaim.
+Neutral experiences (3) show with words like ‘bar’, ‘restaurant’, and ‘room’, where
+a customer feels neither particularly satisfied nor dissatisfied. Lower satisfaction levels
+(2) include words like ‘money’ and ‘poor’, suggesting issues with value for money or
+unmet expectations. The lowest rating (1) is associated with highly negative terms such
+as ‘terrible’, ‘dirty’, ‘bad’, ‘old’, and ‘reception’, indicating areas of critical concern for
+some customers.
+Tour. Hosp. 2024, 5 1004
+4.2. Diagnostic Analytics
+4.2.1. Exploratory Factor Analysis
+Exploratory factor analysis (EFA) was conducted to explore the underlying structure
+among the keywords extracted from online reviews of a dive resort. The objective was to
+reduce the dimensionality of the dataset by grouping variables into factors based on their
+correlations [55]. Initially, 34 keywords extracted from word frequency analysis and cooccurrence network analysis were utilized for conducting EFA using SPSS 26.0. The criteria
+for inclusion in the final model were factor loadings of 0.4 and above with eigenvalues
+greater than 1.0, ensuring that each factor significantly contributes to explaining variance
+within the data. Any factors that loaded into two variables concomitantly were removed to
+maintain clear factor interpretation.
+The results, as presented in Table 2, show the Kaiser–Meyer–Olkin (KMO) measure
+stands at 0.807, surpassing the commonly recommended threshold of 0.6, corroborating
+the adequacy of the data for factor analysis [56]. Bartlett’s test of sphericity confirms the
+intercorrelations within the dataset with a chi-square value of 39,292.512 and a significance
+level below 0.001, indicating that the variables have enough in common to justify the use
+of EFA. This provides evidence against the data being an identity matrix and supports its
+suitability for the applied factor analysis.
+Table 2. Results of exploratory factor analysis.
+Factor Word Factor Loading Eigenvalue Cumulative Variance Cronbach’s α
+Resort (F1)
+friendly 0.672
+2.070 7.961
+0.730
+staff 0.629
+clean 0.487
+room 0.449
+great 0.437
+nice 0.432
+food 0.428
+Diving (F2)
+coral 0.734
+1.962 15.509
+reef 0.727
+fish 0.586
+diving 0.427
+beautiful 0.415
+Amenities (F3) swimming 0.804
+1.655 21.876 pool 0.750
+Outdoor Space (F4)
+green 0.728
+area 0.681 1.594 28.006
+large 0.516
+Entertainment (F5)
+show 0.708
+evening 0.691 1.545 33.948
+animation 0.559
+Dining (F6) breakfast 0.800
+1.483 39.651 dinner 0.782
+Service (F7)
+service 0.696
+excellent 0.596 1.268 44.528
+level 0.479
+Notes. KMO: 0.807; Bartlett chi-square (p): 39,292.512 (p < 0.001).
+Finally, based on the EFA results, nine words were eliminated since they did not pass
+the factor loading standard of 0.4. As a result, 25 words from the seven factors accounting
+for 44.528% of all variances were used as independent variables to derive key factors
+reflecting customer experience. This study measured reliability through the Cronbach’s
+alpha value. Cronbach’s alpha was derived from SPSS to assess the reliability of the factors
+derived from the online reviews. This value indicates the internal consistency of the items
+Tour. Hosp. 2024, 5 1005
+within each factor, demonstrating that the factors are reliable and meet the accepted criteria
+for reliability analysis. The Cronbach’s alpha value in this study shows 0.730, greater than
+0.7, indicating good internal consistency [57].
+The factors identified encompass various aspects of the resort experience, including
+‘Resort’, ‘Diving’, ‘Amenities’, ‘Outdoor Space’, ‘Entertainment’, ‘Dining’, and ‘Service’.
+4.2.2. Linear Regression Analysis
+Following the EFA, seven factors were used as independent variables in a linear regression model to assess their impact on customer rating, also called ‘customer satisfaction’
+in this study. The results of linear regression analysis are shown in Table 3. Various factors
+were assessed for their impact on overall customer satisfaction ratings for a resort, with the
+model indicating a baseline satisfaction rating of 4.6.
+Table 3. Results of linear regression analysis.
+Model
+Unstandardized Coefficients Standardized Coefficients
+t Sig.
+β Std. Error β
+(Constant) 4.637 0.007 641.962 <0.001
+Resort (F1) −0.029 0.007 −0.033 −3.993 <0.001
+Diving (F2) 0.022 0.007 0.026 3.070 0.002
+Amenities (F3) −0.076 0.007 −0.089 −10.573 <0.001
+Outdoor Space (F4) −0.016 0.007 −0.019 −2.274 0.023
+Entertainment (F5) 0.013 0.007 0.016 1.851 0.064
+Dining (F6) −0.096 0.007 −0.111 −13.250 <0.001
+Service (F7) 0.011 0.007 0.013 1.530 0.126
+Notes. Dependent variable: customer satisfaction.
+Five factors were found to be statistically significant in satisfaction. However, only
+one factor showed a positive effect on satisfaction. The diving (β = 0.026, p < 0.05) factor
+indicated that diving experiences enhance customer satisfaction. The other four factors,
+including resort (β = −0.033, p < 0.001), amenities (β = −0.089, p < 0.001), outdoor space
+(β = −0.019, p < 0.05), and dining (β = −0.111, p < 0.001) factors, had negative effects on
+satisfaction, suggesting that aspects within these categories might detract from customers’
+satisfaction levels. Particularly, dining and amenities had a significant negative impact,
+hinting at the need for improvements in the resort’s breakfast, dinner, and swimming
+pool aspects to boost satisfaction. In addition, entertainment (β = 0.016, p = 0.064) and
+service factor (β = 0.013, p = 0.126) were not statistically significant, although they had a
+positive coefficient.
+The results highlight the complexity of customer satisfaction and guide targeted
+improvement strategies, identifying key areas for further investigation. The regression
+equation based on standardized β is
+(CS = 4.637 − 0.033 F1 + 0.026 F2 − 0.089 F3 − 0.019 F4 − 0.111 F6)
+5. Discussion
+In the digital era, big data revolutionizes the coastal tourism industry by analyzing
+online reviews to understand customer behavior and preferences, improving operational
+efficiency, customer satisfaction, and competitive advantage, leading to loyalty and growth.
+This study applies analytics to online customer reviews, utilizing descriptive and diagnostic
+analytics to explore the key factors that reflect the customer experience at dive resorts and
+their relationship with customer satisfaction.
+In the descriptive analytics phase using KH Coder, frequently occurring terms like
+‘hotel’, ‘room’, ‘food’, ‘staff’, and ‘service’ in textual reviews were analyzed to visualize their
+connections and impact on ratings. This analysis confirmed previous findings, highlighting
+their importance on customer experiences [13,58]. The data reflect that dive resorts in the
+Tour. Hosp. 2024, 5 1006
+Red Sea are not merely places of stay but pivotal to the holistic coastal tourism experience.
+The frequent occurrence of ‘diving’ along with ‘reef’, ‘sea’, ‘water’, and ‘fish’ underscores
+the centrality of diving activities to the coastal tourism offering in the Red Sea. This aligns
+with the study of Spalding et al. [59], which emphasized coral reefs as major draws for
+dive tourists, suggesting that the emphasis on marine life can enhance marketing and
+conservation efforts.
+Consistent with previous studies [60,61], positive descriptors such as ‘good’, ‘great’,
+‘delicious’, ‘excellent’, and ‘friendly’ show customer satisfaction. Conversely, terms like
+‘dirty’, ‘terrible’, ‘worst’, ‘same’, ‘old’, ‘bad’, and ‘poor’ reflect areas where expectations
+are not met [62]. This dualism is a reminder of the constant need for renovation and
+attention to detail in service provision and a theme echoed in the study of Jeong and
+Oh [63], who advocate for continuous quality improvement in the hospitality industry to
+improve satisfaction. Big data analysis of customer reviews can effectively identify specific
+areas that businesses need to focus on or improve [64].
+The diagnostic analytics phase, utilizing SPSS 26.0, identifies key components of the
+resort experience impacting customer satisfaction. ‘Diving’ is highlighted as a distinct
+factor with a positive correlation to customer satisfaction. This reflects the central value
+proposition of the dive resort and suggests that high-quality diving experiences are integral
+to customer contentment. Reviews such as ‘The beach is nearby with turtles and corals
+accessible in diving’ and ‘The best thing about the hotel is the location’. There is a coral reef
+on the hotel’s own beach. The diving and marine vegetation is outstanding’ underline this.
+‘Entertainment’ and ‘service’ factors show a positive correlation with customer satisfaction but are not statistically significant in the model. This suggests that while better
+entertainment and service tend to increase satisfaction, the relationship is not strong enough
+to be conclusive [65]. Customer comments indicate satisfaction with these aspects, but
+issues in other areas, like outdated accommodations, negatively impact overall satisfaction.
+For example, comments include the following: ‘Activities are offered. What is boring is,
+unfortunately, the show every evening’, ‘Cool animators but the animation programme is
+weak’, and ‘Impeccable service but a little dated room’. This highlights the interconnected
+nature of customer satisfaction.
+Conversely, factors such as ‘resort’, ‘amenities’, ‘outdoor space’, and ‘dining’ negatively correlate with customer satisfaction, highlighting gaps between expectations and
+current offerings. These areas need improvement, particularly staff attitude, room cleanliness, food menu, swimming pool environment, green areas, evening entertainment, and
+overall service level. Negative feedback includes comments like ‘rooms not good and old’,
+‘poor quality of food’, ‘loud party music at the beach and pool’, ‘small and dirty swimming
+pool’, ‘no green spaces’, and ‘food is almost the same from breakfast to dinner’.
+These findings highlight the intricate relationship between resort features and customer satisfaction in coastal tourism along the Egyptian Red Sea. Management should
+prioritize improving areas of dissatisfaction, such as ‘dining’ and ‘amenities’, while maintaining the strengths identified in positive reviews, like diving activities and service quality.
+Investments guided by guest feedback can significantly enhance overall satisfaction and
+the resort’s reputation.
+Protecting the coastal environment, a priority outlined in Egyptian government policies and initiatives like the Egypt Environmental Policy Program (EEPP), is essential for
+maintaining the area’s appeal to tourists [66]. Sustainable tourism practices should balance
+environmental preservation with the provision of necessary infrastructure and comfortable
+accommodations, as these are crucial for tourist satisfaction. This approach aligns with
+the goals of preserving the natural beauty and biodiversity of the Red Sea, which are
+significant attractions for visitors. By fostering both environmental sustainability and high
+tourist satisfaction, resorts can contribute to the sustainable advancement of Egypt’s coastal
+tourism industry.
+Tour. Hosp. 2024, 5 1007
+6. Conclusions
+6.1. Implications
+This study makes a significant contribution to the theoretical literature on dive resorts
+by underscoring the necessity to expand traditional service quality models to incorporate unique elements pertinent to dive resorts, such as the quality of dive experiences
+and the preservation of natural reefs. The findings suggest that specific terms like ‘reef’
+and ‘fish’ represent niche aspects of service quality that are not adequately captured in
+generic models [67,68]. This observation supports the theoretical proposition that environmental factors play a crucial role in influencing consumer satisfaction with coastal
+tourism. The condition of natural resources, such as coral reefs, is intrinsically linked to
+the satisfaction derived from diving experiences, indicating a theoretical linkage between
+environmental sustainability and service quality [69]. By integrating these unique elements
+into service quality models, dive resorts can enhance their offerings and better meet the
+specific needs of coastal tourism tourists, thereby promoting both customer satisfaction
+and environmental conservation.
+Moreover, customer feedback expressing appreciation for natural beauty and ecological preservation indicates that environmental sustainability should be a core component of
+theoretical models in coastal tourism. Expanding these models to include sustainability
+metrics can guide resorts in aligning their services with eco-conscious consumer expectations. The balance between exploitation and conservation in service provision can offer
+a new dimension to these models [70]. Finally, this research demonstrates the value of
+integrating big data from online reviews into the theoretical framework of consumer satisfaction. It highlights how consumer-generated data can provide nuanced insights into
+customer expectations and experiences [71].
+This study not only contributes theoretically but also to field experts. The first implication for the dive resort operators and managers is that the high frequency of diving-related
+terms in the reviews (e.g., ‘diving’, ‘reef’, ‘fish’) highlights the central role of diving in
+customer satisfaction. Resort management should ensure the provision of high-quality
+diving experiences, including the upkeep of equipment, the availability of skilled dive
+instructors, and the preservation of local reefs. To further enhance customer experiences,
+managers might consider leveraging partnerships with local conservation groups to emphasize the resort’s commitment to environmental stewardship. Secondly, the negative
+coefficient for dining in the regression analysis suggests room for improvement. Managerial
+efforts could be directed towards diversifying the menu, ensuring food quality, providing
+good dining experiences that meet customers’ expectations, and seeking a premium resort
+experience [72]. Third, the analysis points to amenities like ‘swimming’, ‘pool’, and ‘green’
+areas as significant factors. Investments should be made to maintain and improve these
+facilities. In addition, the area’s natural beauty (e.g., ‘beach’, ‘sea’) is a key attraction,
+underscoring the need for environmental stewardship and sustainable practices [73].
+Fourth, with ‘service’ emerging as a frequently mentioned term, exceptional service
+is vital to customer perceptions. Management should prioritize staff training, with a
+focus on customer engagement and service excellence, to maintain high levels of customer
+satisfaction [74]. Fifth, cleanliness has emerged as a significant concern in both the frequency
+and factor analysis. Regular maintenance and ensuring high standards of cleanliness should
+be a priority to keep customer satisfaction levels high [75,76]. Leveraging technology, such
+as automated cleaning systems or mobile apps that allow guests to report cleanliness issues
+directly, can help maintain and monitor cleanliness more efficiently.
+Sixth, terms like ‘entertainment’ and ‘show’ have been identified in the factor analysis.
+Although the β in the regression analysis is insignificant, this should not diminish their
+value. Enhancing these offerings could serve as a distinct way to set the resort apart
+from competitors and elevate the customer experience [77,78]. Seventh, the continuous
+analysis of big data should be a top priority for managers, as it offers valuable insights for
+operational and marketing strategies and aids in predicting customer needs [79,80]. Swiftly
+addressing negative feedback is a critical aspect of maintaining customer satisfaction.
+Tour. Hosp. 2024, 5 1008
+6.2. Limitations and Future Studies
+While this study offers valuable insights into coastal tourism, it also has certain
+limitations that future research should consider. First, the findings from dive resorts in
+the Red Sea area of Egypt may not be generalizable to other dive resorts with different
+environmental conditions, management practices, or customer demographics. Secondly,
+this study relies exclusively on online reviews, which may not represent the full spectrum
+of customer experiences. Online feedback often skews towards extreme views, either highly
+positive or highly negative, potentially omitting moderate perspectives that could provide
+a more balanced understanding.
+Author Contributions: Conceptualization, Y.Z., A.W., N.D.H. and H.-S.K.; data collection, Y.Z. and
+A.W.; data analysis and interpretation, Y.Z., A.W., N.D.H. and H.-S.K.; writing—original draft, Y.Z.
+and A.W.; writing—review and editing, H.-S.K. and N.D.H.; Final approval of the version to be
+published, H.-S.K. All authors have read and agreed to the published version of the manuscript.
+Funding: This work was supported by the Ministry of Education of the Republic of Korea and the
+National Research Foundation of Korea (NRF-2022S1A5A2A03052622).
+Institutional Review Board Statement: Ethical review and approval were waived for this study
+due to the data used were publicly available. The authors did not set up a research protocol and
+conducted the survey by themselves.
+Informed Consent Statement: Informed consent was waived due to the data used were publicly
+available. The authors did not set up a research protocol and conducted the survey by themselves.
+Data Availability Statement: The raw data supporting the conclusions of this article will be made
+available by the authors on request.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+1. 2021 Worldwide Corporate Statistics. Available online: https://www.padi.com/sites/default/files/documents/2021-02/2021%2
+0PADI%20Worldwide%20Statistics.pdf (accessed on 18 November 2023).
+2. Schuhbauer, A.; Favoretto, F.; Wang, T.; Aburto-Oropeza, O.; Sala, E.; Millage, K.; Cabral, R.; Sumaila, U.R.; Lucrezi, S.;
+Hsu, A.; et al. Global Economic Impact of Scuba Dive Tourism. Res. Sq. 2023, 1, 1–18. [CrossRef]
+3. Kabil, M.; AbdAlmoity, E.A.; Csobán, K.; Dávid, L.D. Tourism Centres Efficiency as Spatial Unites for Applying Blue Economy
+Approach: A Case Study of the Southern Red Sea Region, Egypt. PLoS ONE 2022, 17, e268047. [CrossRef] [PubMed]
+4. Hilmi, N.; Safa, A.; Scientifique De Monaco, C.; Reynaud, S.; Allemand, D. Coral Reefs and Tourism in Egypt’s Red Sea. Top. Middle
+East. N. Afr. Econ. 2012, 14, 416–434.
+5. Ghoneim, S.A.; Abdellatif, W.A. A Customized Indicator-Based Tool to Assess Resiliency of Egyptian Coastal Cities: Case Study
+of Red Sea Cities. Civ. Eng. Archit. 2022, 10, 2554–2571. [CrossRef]
+6. Edmund Bower. Tourists Keep Flocking to Egypt as Gaza Conflict Rumbles on|AGBI. Available online: https://www.agbi.com/
+tourism/2024/05/tourists-egypt-visitor-numbers-rise/ (accessed on 28 August 2024).
+7. Egypt’s Tourism Revenues Grew by 8 Percent to $13.2 Billion in 2023|UNION OF ARAB CHAMBERS. Available online:
+https://uac-org.org/en/News/details/5982/ (accessed on 28 August 2024).
+8. Mehanna, S.F. Egyptian Marine Fisheries and Its Sustainability. In Sustainable Fish Production and Processing; Academic Press:
+Cambridge, MA, USA, 2022; pp. 111–140. [CrossRef]
+9. Olive, R. Swimming and Surfing in Ocean Ecologies: Encounter and Vulnerability in Nature-Based Sport and Physical Activity.
+Leis. Stud. 2023, 42, 679–692. [CrossRef]
+10. Marine-Roig, E. Destination Image Semiotics: Evidence from Asian and European Upscale Hospitality Services. Tour. Hosp. 2024,
+5, 472–488. [CrossRef]
+11. Aakash, A.; Gupta Aggarwal, A. Assessment of Hotel Performance and Guest Satisfaction through EWOM: Big Data for Better
+Insights. Int. J. Hosp. Tour. Adm. 2022, 23, 317–346. [CrossRef]
+12. Filieri, R.; Galati, F.; Raguseo, E. The Impact of Service Attributes and Category on EWOM Helpfulness: An Investigation of
+Extremely Negative and Positive Ratings Using Latent Semantic Analytics and Regression Analysis. Comput. Hum. Behav. 2021,
+114, 106527–106534. [CrossRef]
+13. Padma, P.; Ahn, J. Guest Satisfaction & Dissatisfaction in Luxury Hotels: An Application of Big Data. Int. J. Hosp. Manag. 2020,
+84, 102318. [CrossRef]
+14. Lukoseviciute, G.; Panagopoulos, T. Management Priorities from Tourists’ Perspectives and Beach Quality Assessment as Tools to
+Support Sustainable Coastal Tourism. Ocean Coast. Manag. 2021, 208, 105646. [CrossRef]
+Tour. Hosp. 2024, 5 1009
+15. Liu, J.; An, K.; Jang, S.S. A Model of Tourists’ Civilized Behaviors: Toward Sustainable Coastal Tourism in China. J. Destin. Mark.
+Manag. 2020, 16, 100437–100444. [CrossRef]
+16. Arabadzhyan, A.; Figini, P.; García, C.; González, M.M.; Lam-González, Y.E.; León, C.J. Climate Change, Coastal Tourism, and
+Impact Chains–a Literature Review. Curr. Issues Tour. 2021, 24, 2233–2268. [CrossRef]
+17. Kubo, T.; Uryu, S.; Yamano, H.; Tsuge, T.; Yamakita, T.; Shirayama, Y. Mobile Phone Network Data Reveal Nationwide Economic
+Value of Coastal Tourism under Climate Change. Tour. Manag. 2020, 77, 104010–104018. [CrossRef]
+18. Pafi, M.; Flannery, W.; Murtagh, B. Coastal Tourism, Market Segmentation and Contested Landscapes. Mar. Policy 2020,
+121, 104189–104496. [CrossRef]
+19. Carvache-Franco, W.; Carvache-Franco, M.; Carvache-Franco, O.; Hernández-Lara, A.B. Motivation and Segmentation of the
+Demand for Coastal and Marine Destinations. Tour. Manag. Perspect. 2020, 34, 100661–100669. [CrossRef]
+20. Glossary of Tourism Terms|UNWTO. Available online: https://www.unwto.org/glossary-tourism-terms (accessed on 28
+August 2024).
+21. Wheaton, B.; Waiti, J.; Cosgriff, M.; Burrows, L. Coastal Blue Space and Wellbeing Research: Looking beyond Western Tides.
+Leis. Stud. 2020, 39, 83–95. [CrossRef]
+22. Marfai, M.A.; Ahmada, B.; Mutaqin, B.; Windayati, R. Dive Resort Mapping and Network Analysis: Water Resources Management
+in Pemuteran Coastal Area, Bali—Indonesia. Geogr. Tech. 2020, 15, 106–116. [CrossRef]
+23. Aygün, Y.; Tüfekçi, ¸S. Leisure and SCUBA Diving Safety Tips during and after COVID-19. Cogent. Soc. Sci. 2020, 6, 1809805.
+[CrossRef]
+24. Dimmock, K.; Musa, G. Scuba Diving Tourism System: A Framework for Collaborative Management and Sustainability. Mar.
+Policy 2015, 54, 52–58. [CrossRef]
+25. Honey, M.; Krantz, D. Global Trends in Coastal Tourism; Center on Ecotourism and Sustainable Development: Washington, DC,
+USA, 2007.
+26. Méndez-Aparicio, M.D.; Jiménez-Zarco, A.; Izquierdo-Yusta, A.; Blazquez-Resino, J.J. Customer Experience and Satisfaction in
+Private Insurance Web Areas. Front. Psychol. 2020, 11, 581659–581663. [CrossRef]
+27. Cetin, G. Experience vs Quality: Predicting Satisfaction and Loyalty in Services. Serv. Ind. J. 2020, 40, 1167–1182. [CrossRef]
+28. Jiménez-Medina, P.; Navarro-Azorín, J.M.; Cubillas-Para, C.; Artal-Tur, A. What Safety and Security Measures Really Matter in
+the Post-COVID Recovery of the Hospitality Industry? An Analysis of the Visitor’s Intention to Return in Spain. Tour. Hosp. 2022,
+3, 606–617. [CrossRef]
+29. Meilatinova, N. Social Commerce: Factors Affecting Customer Repurchase and Word-of-Mouth Intentions. Int. J. Inf. Manag.
+2021, 57, 102300–102316. [CrossRef]
+30. Cronin, J.; Taylor, S. Measuring Service Quality: A Reexamination and Extension. J. Mark. 1992, 56, 55–68. [CrossRef]
+31. Suttikun, C.; Meeprom, S. Examining the Effect of Perceived Quality of Authentic Souvenir Product, Perceived Value, and
+Satisfaction on Customer Loyalty. Cogent Bus. Manag. 2021, 8, 1976468. [CrossRef]
+32. Xie, L.; Guan, X.; He, Y.; Huan, T.C. Wellness Tourism: Customer-Perceived Value on Customer Engagement. Tour. Rev. 2021,
+77, 859–876. [CrossRef]
+33. Jun, M.; Yang, Z.; Kim, D.S. Customers’ Perceptions of Online Retailing Service Quality and Their Satisfaction. Int. J. Qual. Reliab.
+Manag. 2004, 21, 817–840. [CrossRef]
+34. Santos, A.; Perinotto, A.; Soares, J.R.R.; Mondo, T.S.; Cembranel, P. Expressing the Experience: An Analysis of Airbnb Customer
+Sentiments. Tour. Hosp. 2022, 3, 685–705. [CrossRef]
+35. Bhatti, M.A.; Alawad, W.A. Online Reviews and Brand Reputation Management in the Digital Landscape: Exploring Moderating
+Role of Product Type. Transnatl. Mark. J. 2023, 11, 40–59.
+36. Floyd, K.; Freling, R.; Alhoqail, S.; Cho, H.Y.; Freling, T. How Online Product Reviews Affect Retail Sales: A Meta-Analysis.
+J. Retail. 2014, 90, 217–232. [CrossRef]
+37. Wang, T.L.; Tran, P.T.K.; Tran, V.T. Destination Perceived Quality, Tourist Satisfaction and Word-of-Mouth. Tour. Rev. 2017,
+72, 392–410. [CrossRef]
+38. Joung, J.; Kim, H. Interpretable Machine Learning-Based Approach for Customer Segmentation for New Product Development
+from Online Product Reviews. Int. J. Inf. Manag. 2023, 70, 102641–102649. [CrossRef]
+39. Naumzik, C.; Feuerriegel, S.; Weinmann, M. I Will Survive: Predicting Business Failures from Customer Ratings. Mark. Sci. 2022,
+41, 188–207. [CrossRef]
+40. Troisi, O.; Visvizi, A.; Grimaldi, M. Digitalizing Business Models in Hospitality Ecosystems: Toward Data-Driven Innovation. Eur.
+J. Innov. Manag. 2023, 26, 242–277. [CrossRef]
+41. Tao, S.; Kim, H.S. Online Customer Reviews: Insights from the Coffee Shops Industry and the Moderating Effect of Business
+Types. Tour. Rev. 2022, 77, 1349–1364. [CrossRef]
+42. Naeem, M.; Jamal, T.; Diaz-Martinez, J.; Butt, S.A.; Montesano, N.; Tariq, M.I.; De-la-Hoz-Franco, E.; De-La-Hoz-Valdiris, E.
+Trends and Future Perspective Challenges in Big Data. Smart Innov. Syst. Technol. 2022, 253, 309–325. [CrossRef]
+43. Mariani, M. Big Data and Analytics in Tourism and Hospitality: A Perspective Article. Tour. Rev. 2020, 75, 299–303. [CrossRef]
+44. Ghasemaghaei, M. Understanding the impact of big data on firm performance: The necessity of conceptually differentiating
+among big data characteristics. Int. J. Inf. Manag. 2021, 57, 102055. [CrossRef]
+Tour. Hosp. 2024, 5 1010
+45. Shafiq, M.; Tian, Z.; Bashir, A.K.; Jolfaei, A.; Yu, X. Data Mining and Machine Learning Methods for Sustainable Smart Cities
+Traffic Classification: A Survey. Sustain. Cities Soc. 2020, 60, 102177. [CrossRef]
+46. Ahmed, I.; Ahmad, M.; Jeon, G.; Piccialli, F. A Framework for Pandemic Prediction Using Big Data Analytics. Big Data Res. 2021,
+25, 100190. [CrossRef]
+47. Koukaras, P.; Tjortjis, C. Social Media Analytics, Types and Methodology. In Learning and Analytics in Intelligent Systems;
+Tsihrintzis, G.A., Virvou, M., Jain, L.C., Eds.; Springer: Cham, Switzerland, 2019; Volume 1. [CrossRef]
+48. Russell, C. Best Red Sea Diving Resorts. Available online: https://blog.padi.com/best-red-sea-diving-resorts/ (accessed on 19
+March 2024).
+49. Park, J.Y.; Mistur, E.; Kim, D.; Mo, Y.; Hoefer, R. Toward Human-Centric Urban Infrastructure: Text Mining for Social Media Data
+to Identify the Public Perception of COVID-19 Policy in Transportation Hubs. Sustain. Cities Soc. 2022, 76, 103524. [CrossRef]
+[PubMed]
+50. Takiguchi, Y.; Matsui, M.; Kikutani, M.; Ebina, K. The Relationship between Leisure Activities and Mental Health: The Impact of
+Resilience and COVID-19. Appl. Psychol. Health Well-Being 2023, 15, 133–151. [CrossRef] [PubMed]
+51. Cioban, S.; Lazăr, A.R.; Bacter, C.; Hatos, A. Adolescent Deviance and Cyber-Deviance. A Systematic Literature Review. Front.
+Psychol. 2021, 12, 748006. [CrossRef] [PubMed]
+52. Wu, H.; Zhou, Q.; Nie, R.; Cao, J. Effective Metric Learning with Co-Occurrence Embedding for Collaborative Recommendations.
+Neural Netw. 2020, 124, 308–318. [CrossRef] [PubMed]
+53. Tien, N.H.; Anh, N.; Dung, H.; On, P.; Anh, V.; Dat, N.; Tam, B. Factors Impacting Customer Satisfaction at Vietcombank in
+Vietnam. Himal. J. Econ. Bus. Manag. 2021, 2, 44–51. [CrossRef]
+54. Ban, H.-J.; Kim, H.-S. Semantic Network Analysis of Hotel Package through the Big Data. Cul. Sci. Hosp. Res. 2019, 25, 110–119.
+[CrossRef]
+55. Mathayomchan, B.; Taecharungroj, V. “How Was Your Meal?” Examining Customer Experience Using Google Maps Reviews. Int.
+J. Hosp. Manag. 2020, 90, 102641. [CrossRef]
+56. Maskey, R.; Fei, J.; Nguyen, H.O. Use of Exploratory Factor Analysis in Maritime Research. Asian J. Shipp. Logist. 2018, 34, 208–209.
+[CrossRef]
+57. Kaiser, H.F. An Index of Factorial Simplicity. Psychometrika 1974, 39, 31–36. [CrossRef]
+58. Dias, J.G. Environmental Sustainability Measurement in the Travel & Tourism Competitiveness Index: An Empirical Analysis of
+Its Reliability. Ecol. Indic. 2017, 73, 589–596. [CrossRef]
+59. He, W.; Tian, X.; Tao, R.; Zhang, W.; Yan, G.; Akula, V. Application of Social Media Analytics: A Case of Analyzing Online Hotel
+Reviews. Online Inf. Rev. 2017, 41, 921–935. [CrossRef]
+60. Spalding, M.; Burke, L.; Wood, S.A.; Ashpole, J.; Hutchison, J.; zu Ermgassen, P. Mapping the Global Value and Distribution of
+Coral Reef Tourism. Mar. Policy 2017, 82, 104–113. [CrossRef]
+61. Akhtar, N.; Zubair, N.; Kumar, A.; Ahmad, T. Aspect Based Sentiment Oriented Summarization of Hotel Reviews. Procedia
+Comput. Sci. 2017, 115, 563–571. [CrossRef]
+62. Kaveski Peres, C.; Pacheco Paladini, E. Exploring the Attributes of Hotel Service Quality in Florianópolis-SC, Brazil: An Analysis
+of TripAdvisor Reviews. Cogent Bus. Manag. 2021, 8, 1926211. [CrossRef]
+63. Vassilikopoulou, A.; Kamenidou, I.; Priporas, C.V. Negative Airbnb Reviews: An Aspect-Based Sentiment Analysis Approach.
+EuroMed J. Bus. 2022, 19, 191–207. [CrossRef]
+64. Jeong, M.; Oh, H. Quality Function Deployment: An Extended Framework for Service Quality and Customer Satisfaction in the
+Hospitality Industry. Int. J. Hosp. Manag. 1998, 17, 375–390. [CrossRef]
+65. Quang, T.D.; Dang Vo, N.M.; Van Nguyen, H.; Thi Nguyen, Q.X.; Ting, H.; Vo-Thanh, T. Understanding Tourists’ Experiences at
+War Heritage Sites in Ho Chi Minh City, Vietnam: A Netnographic Analysis of TripAdvisor Reviews. Leis. Stud. 2024, 43, 624–643.
+[CrossRef]
+66. Balinado, J.R.; Prasetyo, Y.T.; Young, M.N.; Persada, S.F.; Miraja, B.A.; Perwira Redi, A.A.N. The Effect of Service Quality on
+Customer Satisfaction in an Automotive After-Sales Service. J. Open Innov. Technol. Mark. Complex. 2021, 7, 116. [CrossRef]
+67. Tabet, L.; Fanning, L. Integrated coastal zone management under authoritarian rule: An evaluation framework of coastal
+governance in Egypt. Ocean Coast. Manag. 2012, 61, 1–9. [CrossRef]
+68. Bonin, M.C.; Almany, G.R.; Jones, G.P. Contrasting Effects of Habitat Loss and Fragmentation on Coral-Associated Reef Fishes.
+Ecology 2011, 92, 1503–1512. [CrossRef]
+69. Bridge, T.; Beaman, R.; Done, T.; Webster, J. Predicting the Location and Spatial Extent of Submerged Coral Reef Habitat in the
+Great Barrier Reef World Heritage Area, Australia. PLoS ONE 2012, 7, e48203. [CrossRef] [PubMed]
+70. Coghlan, A. Facilitating Reef Tourism Management through an Innovative Importance-Performance Analysis Method. Tour.
+Manag. 2012, 33, 767–775. [CrossRef]
+71. Phelan, A.; Ruhanen, L.; Mair, J. Ecosystem services approach for community-based ecotourism: Towards an equitable and
+sustainable blue economy. J. Sustain. Tour. 2020, 28, 1665–1685. [CrossRef]
+72. Kietzmann, J.; Paschen, J.; Treen, E. Artificial Intelligence in Advertising: How Marketers Can Leverage Artificial Intelligence
+along the Consumer Journey. J. Advert. Res. 2018, 58, 263–267. [CrossRef]
+73. Han, H.; Hyun, S.S. Impact of Hotel-Restaurant Image and Quality of Physical-Environment, Service, and Food on Satisfaction
+and Intention. Int. J. Hosp. Manag. 2017, 63, 82–92. [CrossRef]
+Tour. Hosp. 2024, 5 1011
+74. Macdonald, C.; Turffs, D.; McEntee, K.; Elliot, J.; Wester, J. The Relationship between Tourism and the Environment in Florida,
+USA: A Media Content Analysis. Ann. Tour. Res. Empir. Insights 2023, 4, 100092. [CrossRef]
+75. Abdelhamied, H.H.S. The Impact of Training Activities on Quality of Service, Customer Satisfaction and Behavioral Intention.
+J. Tour. Hosp. Manag. 2019, 7, 135–148. [CrossRef]
+76. Handani, N.D.; Williady, A.; Kim, H.-S. An Analysis of Customer Textual Reviews and Satisfaction at Luxury Hotels in Singapore’s
+Marina Bay Area (SG-Clean-Certified Hotels). Sustainability 2022, 14, 9382. [CrossRef]
+77. Syaqirah, Z.N.; Faizurrahman, Z.P. Managing Customer Retention of Hotel Industry in Malaysia. Procedia Soc. Behav. Sci. 2014,
+130, 379–389. [CrossRef]
+78. Zhang, X.; Kim, H.-S. Customer Experience and Satisfaction of Disneyland Hotel through Big Data Analysis of Online Customer
+Reviews. Sustainability 2021, 13, 12699. [CrossRef]
+79. Riswanto, A.L.; Kim, S.; Kim, H.-S. Analyzing Online Reviews to Uncover Customer Satisfaction Factors in Indian Cultural
+Tourism Destinations. Behav. Sci. 2023, 13, 923. [CrossRef] [PubMed]
+80. Costa, G.; Glinia, E.; Goudas, M.; Antoniou, P. Recreational Services in Resort Hotels: Customer Satisfaction Aspects. J. Sport Tour.
+2004, 9, 117–126. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the co

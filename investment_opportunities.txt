@@ -1,0 +1,452 @@
+Civil Engineering and Architecture 4(2): 39-46, 2016 http://www.hrpub.org
+DOI: 10.13189/cea.2016.040201
+Sustainable Tourism along the Red Sea: Still Possible?
+Amir Gohar*
+, G. Mathias Kondolf
+Department of Landscape Architecture & Environmental Planning, University of California, USA
+ 
+Copyright©2016 by authors, all rights reserved. Authors agree that this article remains permanently open access under the 
+terms of the Creative Commons Attribution License 4.0 International License
+Abstract The Red Sea is a unique resource whose 
+potential remains underutilized. Since the 1980s 
+development for mass tourism has destroyed the northern 
+coastal stretches as exemplified by the city of Hurghada. A 
+number of initiatives have taken place in the past to protect 
+areas along the Red Sea (from Marsa Alam city South), 
+including introduction of ecotourism and coastal planning 
+guidelines by the Red Sea Sustainable Tourism Initiative 
+(RSSTI) in 2000-2004. Also, the “Livelihood and Income 
+From Environment (LIFE)” program in 2005-2008 
+supported implementing pilot projects in national parks to 
+demonstrate the appropriate processes. Since 2008, local 
+NGOs (e.g; HEPCA) initiated sustainable practices such as 
+Solid Waste Management and Mooring Buoys. Despite these 
+initiatives, the main obstacles to improved planning and 
+development are found to be: (i) lack of coordination within 
+the ministry and stakeholders, (ii) lack of contextual design 
+relevance to the Red Sea, and (iii) inappropriate land 
+subdivisions and development in environmentally vulnerable 
+areas. The solutions for such complex problems are 
+summarized below: (i) Elevate land use planning above the 
+ministry level, (ii) incorporate appropriate planning and 
+building education, (iii) mandatory use of Land use 
+suitability maps in the region.
+Keywords Sustainable Tourism, Land Use Planning, 
+Red Sea, Egypt
+1. Introduction
+1.1. Background
+The Red Sea is a unique environment with deserts rich in 
+history abutting a sea whose remarkable coral reefs are 
+among the best in the world. With its striking environment 
+and touristic potential, sunny climate, and short flight 
+distance from major population centers in Europe, the 
+Egyptian Red Sea coast has tremendous potential for 
+economic development and benefits for the nation and region. 
+Since this coast was opened to tourism after the Camp David 
+Accords of 1978, the number of hotel rooms shot up from 
+about 40 in 1980, to about 1890 in 1989 to about 7000 in 
+1999, to over 40,000 in 2009 (1). This rapid development 
+came with unfortunate impacts on the coast and coral reefs 
+(2). 
+Most of the coast is flanked by a fringing coral reef, which 
+blocks access to deep water (3). Exceptions are the mouths of 
+dry streams (wadis), where there are breaks in the fringing 
+reef and commonly embayments (marsas) that offer 
+anchorage and access to deep water for boats, snorkelling 
+opportunities along the reef edge of the embayment, and 
+swimming beaches along the landward shore. Thus, the best 
+places for tourist resorts are next to marsas, with their access 
+to snorkelling and open water. However, development has 
+been promoted (by the Tourism Development Authority) on 
+parcels evenly distributed along the coast; most sites are 
+along fringing reef, where it is impossible to swim in the sea. 
+This motivated some developers near Hurghada to physically 
+remove the reef in front of their hotels, or to fill over the reef 
+in attempts to create direct access to deep water; (4). While 
+such blatant destruction is no longer common, development 
+patterns along the coast are still not informed by the 
+underlying carrying capacity of the coastal geomorphology, 
+coastal waters and thus their coral reefs) have been affected 
+by chronic pollution and are at risk of extensive 
+contamination from flash floods that will scour waste dumps 
+in Wadis and carry chemicals, garbage, and other pollutants 
+out to the coral reef (5) and (6)
+1.2. Objective
+This paper aims to analyze exiting institutional structure 
+under which development occurs in order to understand the 
+points of deficits in the planning process. In addition, 
+critically review the environmental planning initiatives that 
+have taken place so far and understand their successes and 
+failures in order to inform the decision makers of future 
+considerations while designing or implementing such 
+projects. And inform private developers on best practices to 
+consider while working on new development along the 
+Egyptian Southern area of the Red Sea coast.
+40 Sustainable Tourism along the Red Sea: Still Possible?
+Table 1. Planning initiatives and projects in the southern regions of the Red Sea
+Project Year Area Cover Lead Agency Local Partner
+Regional Programme for the 
+Environment of the Red Sea and Gulf 
+of Aden
+1974-1995 Red Sea and Gulf of Aden PERSGA EEAA
+UNEP Regional Seas Programme 
+Action Plan For the Conservation of 
+the Marine environment and Coastal 
+Areas of The Red Sea & Gulf of Aden
+1976-2009 Red Sea and Gulf of Aden UNEP EEAA
+Launch of Egyptian EIA 1994-Present Egypt EEAA All other GoE 
+organizations
+Strategic Action Programme for the 
+Red Sea & Gulf of Aden 1995-2003 Red Sea and Gulf of Aden PERSGA EEAA
+Assessment and Management of 
+Mangrove Forest in Egypt for
+Sustainable Utilization and 
+Development
+2003-2005 Egyptian Red Sea Coast
+Ministry of Agriculture and 
+Land Reclamation
+(MALR), Under Secretariat for 
+Afforestation and Environment 
+(UAE)
+MSEA and EEAA
+Private Sector Tourism Infrastructure 
+and Environmental Management 
+Project
+2002-2003 Egyptian Red Sea Coast World Bank EEAA
+Environmental Sustainable tourism 
+Project (EST) 1998 Southern Region of Red 
+Sea USAID TDA
+Red Sea Sustainable Tourism Initiative 
+(RSSTI) 2001 Egyptian Red Sea Coast USAID TDA
+Livelihood & Income From the 
+Environment (LIFE) 2005-2008 Southern Region of Red 
+Sea & Mountains Range USAID EEAA, RSG and 
+TDA
+2. Problem Statement
+Since the late seventies there has been recognition of the 
+environmental significance of the Red Sea area, but attempts 
+to do environmental planning started only in the 21st century. 
+Developing the Red Sea for economic reasons was mainly 
+promoted by the Government of Egypt to create jobs and 
+increase national income. However, efforts to implement 
+more sustainable, environmental and balanced development 
+were initiated by external organizations seeking to protect 
+the ecosystem specifically the coral reef, migratory birds and 
+mangrove trees, as well as archeological sites. These 
+organizations include USAID, UNEP, GEF, IUCN, Italian 
+Cooperation, UNDP and WFP. (Table 1)
+The earlier projects and initiatives played a role in 
+bringing new concepts to the attention of local authorities 
+and were the “wake-up” call for the importance of 
+sustainable tourism. The most recent projects are the most 
+significant ones that took place since the beginning of this 
+century. However, none of these initiatives were extremely 
+successful in changing the mind set and the pattern of 
+operation of the local authorities. The most recent two 
+projects namely RSSTI and LIFE had sufficient funding to 
+implement pilot examples. The RSSTI project (7) focused on 
+the 5 km coastal strip of the Red Sea from Marsa Alam to 
+Ras Banas (8), and despite all the land use planning efforts, 
+the development continues (business as usual) after the 
+project. The most recent project LIFE had some successful 
+intervention with local communities’ development and 
+supported some infrastructure in the park (e.g. vehicular 
+trails, a ranger’s operation center facility, a visitor center and 
+marine equipment).
+However, none of the projects to date have achieved broad 
+public education or developed land use suitability maps at 
+appropriate scales to provide guidance for future ecotourism
+development for the area.
+3. Methods
+This research documented and overlapped current national 
+and regional strategies that is concerned with the southern 
+Red Sea region. In addition, mapped the governmental 
+institutions responsible for developing the coast. 
+Through interviews with officials in the environmental 
+agencies (EEAA), the tourism agencies (TDA) and the local 
+governorates (RSG) and in addition to 8 years of experience 
+in international development projects in the Red Sea area, the 
+exiting framework of development was analyzed. This paper 
+highlights areas of potential improvements towards 
+improved sustainable tourism planning. In addition, the 
+overall scheme of design and planning templates for the 
+coast was analyzed. Based on these investigations, a 
+comprehensive set of recommendations were put to gather to 
+address each of the findings on both the right scale and the 
+appropriate institutional level.
+4. Findings
+Despite the thorough attempts of environmental planning 
+agencies, and despite the fact that there is more awareness 
+Civil Engineering and Architecture 4(2): 39-46, 2016 41
+about environmental planning and ecotourism planning, the 
+pattern of land subdivisions remains inappropriate for the 
+environment. The reasons can be summarized as follows:
+4.1. Current Structure of Government Agencies
+The implementing agencies for tourism planning, in 
+general, are subordinate agencies to Ministries and have 
+specific mandate that often prevent planners from examining 
+issues from a multidisciplinary perspective. A national or 
+regional planning agency with a broader perspective could 
+alleviate this problem. Alternatively, elevating the authority 
+(or jurisdiction) of individual planning agencies would also 
+encourage multidisciplinary planning perspectives. A 
+schematic simplified diagram for the existing ministries and 
+some of their executing arms has been shown in figure (1).
+The selected ministries and subordinating agencies in 
+table 2 are examples of ministries that shape/influence 
+development across the country including the development 
+of the Red Sea region.
+The Tourism Development Authority (TDA) under the 
+Ministry of Tourism has a very well-defined mandate, 
+consisting of dividing the land, and encouraging developers 
+to invest in tourism facilities to increase the number of rooms 
+and therefore attract more tourism. They have been 
+successful in achieving the target. However, TDA has not 
+fully considered its impact on environmental resources and 
+fragile ecosystems, so achieving this development was at a 
+very high environmental cost.
+Table 2. Example of a number of ministries and their subordinate agencies.
+Ministry Implementing Agencies (subordinate agencies).
+Tourism Tourism Development Authority and Tourism Promotion Authority
+Environment Egyptian Environmental Affairs Agency, Shore line Protection Agency
+Housing General Organization for Physical Planning, New Unban Communities Authorities
+Culture Supreme Commission for Antiquities
+Figure 1. Schematic structure of existing government organizations
+42 Sustainable Tourism along the Red Sea: Still Possible?
+Figure 2. Existing coastal land subdivision for tourism facilities in the Red Sea. The map shows the planning in relation to shoreline, coastal highway and 
+drainage pattern
+4.2. Current Methods for Planning & Design
+Even within the available small window that international 
+organizations promote to introduce some environmental 
+planning for such a quality destination, the actual attempts 
+have been lacking sufficient information about sustainability. 
+The planning process did not recognize the weight of the 
+environmental and cultural factors. Although some projects 
+had high level of awareness about the appropriate planning, 
+this was on the ideas and concept level and was not carried 
+out forward to implementation. The typical planning 
+techniques adopted further north (which is land subdivisions 
+in linear row) has continued to be used in the southern region 
+of the Red Sea. (Figure 2)
+4.3. Planning & Design Models
+The local residents in the area are nomads who move 
+across the Red Sea mountain range. Their numbers are small 
+and their settling points within this migratory network tend 
+to be fresh water wells where they practice grazing, and 
+small villages near the shoreline where their main activity is 
+fishing. Therefore, their physical traces are less impressive 
+than the architecture dominating other parts of Egypt.
+Most of the professional planning and design attempts to 
+“go-green” have been imported from other climates. While 
+perhaps environmentally friendly and useful for their 
+original settings, they may not be appropriate for the Red Sea 
+coast of Egypt. The following are two examples of this 
+practice:
+ Copying Nile Valley Development Style
+Architects and landscape architects in Egypt are heavily 
+influenced by the architecture of the Nile Valley, and have 
+drawn upon the vernacular architecture and building 
+materials of the Nile for building along the Red Sea. 
+However the Nilotic template is not necessarily the most 
+appropriate for the Red Sea desert, climate, soil, available 
+stone, economic activity and nature of residents. Patterns of 
+life in the eastern desert of Egypt are very different and 
+would suggest different patterns of planning and design for 
+the coast. Figures 2 and 3 show some replication of domes 
+and vaults using concrete. (Vaults and domes are originally 
+structure forms that are suitable for areas like Nile valley 
+where mud bricks and limestone exist).
+ Copying Other External Development Style
+In attempts to replicate successful examples of world class 
+ecotourism, such as South Africa “Ecolodges”, the tendency 
+has been to replicate the facility rather than the planning and 
+design process, which resulted in, ignoring differences in 
+locally available material, climate and other aspects. Figure 4 
+shows an example of the building style of one of the camps 
+using wood and concrete while the area is rich in other 
+material that can be of more use such as granite and gravel.
+Civil Engineering and Architecture 4(2): 39-46, 2016 43
+Figure 3. Tourism facility (Al-Zabargad) in the Red Sea coast.
+Figure 4. The government Housing (in Hamata Village) for local residents is not suitable for climate, locals’ needs, design or internal zoning. It has 
+remained unoccupied since it was built (Source, several interviews with local tribes – 2003-2007)
+5. Discussion
+TDA’s approach of dividing up coast lands into regularly 
+spaced parcels cannot take into account the very different 
+context of each land at different parts of the coast. Moreover, 
+the TDA’s mandate to develop has been manifested more in 
+quantity than quality of tourism (i.e. number of rooms or 
+nights versus revenue), resulting in densely developed coasts 
+in the northern part of the Red Sea with a very low selling 
+rate per room per night (goes as low as 12$/night in charter 
+flights packages). This resulted in a mass tourism which 
+created stress on environmental assets and significant 
+environmental degradation such as developing on landfill, 
+destruction of coral reef, pressure on fresh ground water, 
+development within flood zones and a reduction in quality of 
+the destination. 
+International Environmental Planning initiatives have 
+achieved little individual successes in areas such as effective 
+use of water, grey water recycle, waste disposal, however, 
+they most importantly highlight the issue of sustainability 
+and bring it to the attention of the Egyptian government as 
+well as private developers. 
+The current practice of employing the design templates of 
+the Nile valley architecture and other global inappropriate 
+examples has stifle the development of a building style that is 
+in direct conflict with the coastal environmental and cultural 
+context. 
+The gap between what is implemented in terms of 
+sustainability measure and what is envisioned for this region 
+remains very big, and both the Egyptian government and the 
+international planning initiative shall push sustainable 
+development further in the planning process and in the 
+implementation of such tourism projects.
+6. Recommendations
+6.1. Institutional Improvements
+ Institutional restructure
+It is recommended that planning authorities be elevated 
+above the single sector ministries to avoid the current 
+conflicts between the Ministry of Tourism (aiming to 
+increase tourism development) and the Ministry of 
+Environment (aiming to preserve environmental resources). 
+Figure 5 shows a proposal to elevate the planning authorities 
+above the ministries as agencies that serve one sector 
+through formulation of a cross-cutting higher commission 
+for planning. This is a proposal developed by “Mithaq 
+Group”, a group of professionals representing several 
+organizations, and supported by several political parties and
+civil society organizations
+ Implementation agency mandate
+Like any other ministry in Egypt, the Ministry of Tourism 
+is supported by many implementing arms such as: Tourism 
+Development Authority, Tourism Promotion Agencies and 
+others.
+It is recommended that the objective of Tourism 
+Development authority to be changed from “Mass” tourism, 
+where success is evaluated by the number of hotel rooms 
+built, to low, moderate or “eco” tourism (achieving more 
+number of rooms built) to “Moderate” or “eco” tourism 
+(achieving same revenue or more with less number of rooms). 
+Figure 7 shows the major difference between current 
+planning approaches and alternative concepts:
+a) The current parcelization pattern (alternative A) 
+44 Sustainable Tourism along the Red Sea: Still Possible?
+tends to block natural flooding paths, reduce public 
+view of the sea, minimize monitoring and limit 
+control over the marine activities
+b) Laying out parcels in groups (alternative B) allows 
+for floods to flow smoothly without damage, 
+guarantees better management, more and beneficial 
+environmental monitoring, exclusivity and better 
+sustainability for the existing resources
+c) Alternative (C) proposes a more integrated and 
+exclusive pattern that is economically feasible, safe 
+from floods and provides better protection for the 
+environment
+Figure 5. Inspired by South African lodges, using (wood) in the construction of some coastal facilities, where wood is an extremely rare material and not 
+local
+Figure 6. Proposed schematic restructure for the government (proposed for the new constitution) as part of the current formulation of the government after 
+the 25th of January revolution (developed be the “Mithaq Group”)
+Civil Engineering and Architecture 4(2): 39-46, 2016 45
+Figure 7. (a) Convention planning, (b) alternative concept with the same numbers of rooms, (c) low intensity development with focus on higher exclusive 
+facility
+6.2. Improve Environmental Planning & Design 
+Capabilities
+(a) Planning Level
+The local authority (TDA) responsible for this planning 
+will need to conduct a comprehensive research project to 
+help identify vulnerability maps to inform other government 
+agencies and developers of potential hazards in the region. It 
+is also crucial to re-evaluate the planning process for the 
+coastal area and incorporate a higher environmental planning 
+component. 
+Informing the public and the investor of accurate 
+potentials and hazards of sites is a key element to shaping the 
+development pattern for the region and will help reduce risks 
+that may occur to people and investments.
+Increasing the technical capabilities for the planning team 
+about Integrated Coastal Zone Management, (ICZM) will 
+allow them to plan the coastal plain in conjunction and 
+proper integration with the mountain deep range of the Red 
+Sea, because the ecosystem is interlinked and the coast 
+cannot be sub divided in isolation of what is going neither in 
+the deep desert (west) nor on the marine side (east).
+(b) Design Level
+It is important to pay closer attention to the designs 
+proposed by project developers and to re-evaluate the entire 
+site layout to make sure it falls within the planning principles 
+and ecological considerations on the macro scale. This can 
+be achieved by revisiting the current Environmental Impact 
+Assessment (E.I.A) process for such projects to include 
+wider zones than the projects land lot.
+One important consideration in tourism planning relate to 
+adopting design solutions within the site boundaries, such as 
+avoiding building in Wadi floor, using light structural 
+development in potential runoff zones and avoiding locating 
+facilities in parts of land where there is potential for flooding 
+or soil replacement. This requires selecting competent 
+landscape designers who are able to understand the site and 
+respond to the developer needs without harmful designs that 
+end up with environmental disasters.
+The environmental regulations and current practices for 
+shoreline setback are developed in isolation of risks that may 
+occur from shoreline dynamics such as seal level change, 
+realization of different habitat basic needs (e.g. turtle nesting 
+sites and coastal mangrove zones).
+6.3. Improving Education & Learning from Local 
+Knowledge
+It is recommended to conduct consultation with local 
+residents about their experience with ecological factors in the 
+area. Such consultation will provide insights to numerous 
+factors that might not otherwise be evident during the 
+decision making time such as history of previous floods, 
+types of winds in other seasons, project impact on local flora 
+and network of movement for the fauna system (migratory
+birds and camel trail systems). 
+This consultation could include a wide range of public 
+participation, engaging the nomads in the planning process 
+and allowing for a communication channel between the 
+developer and local residents in the Red Sea region.
+46 Sustainable Tourism along the Red Sea: Still Possible?
+Abbreviations
+EEAA Egyptian Environmental Affairs Agency
+GEF Global Environmental Facility
+GOPP General Organization for Physical Planning
+LIFE Livelihood and Income From the Environment
+MALR Ministry of Agriculture and Land Reclamation
+MOT Ministry of Tourism
+MSEA Ministry of State for Environmental Affairs
+PERSGA Organization for the Conservation of the Environment of the Red Sea and Gulf of Aden
+RSG Red Sea Governorate
+RSSTI Red Sea Sustainable Tourism Initiative 
+TDA Tourism Development Authority
+TPA Tourism Promotion Authority
+UNEP United Nation Environmental Program
+USAID United States Agency for International Development
+WFP World Food Program
+REFERENCES
+[1] Report. Egyptian Minitry of Tourism. 2009.
+[2] Dewidar KM. Landfill detection in Hurghada, North Red Sea, 
+Egypt, using Thematic Mapper images. 2002;1161(January).
+[3] Foody GM, Ghoneim EM, Arnell NW. Predicting locations 
+sensitive to flash flooding in an arid environment. 
+2004;292:48–58.
+[4] Frihy O, Dewidar K, El-Raey M. Evaluation of coastal 
+problems at Alexandria, Egypt. 1996;30(95):281–95.
+[5] Ismail I. Coral Reef Stress Risk Analysis: Incorporating 
+Choices of Coastal Development Design and Infrastructure 
+Technologies. 2003.
+[6] Radke J, Kondolf GM, Ismail I. Mitigating risks to coral reefs 
+from land derived contaminants: results of studies in the 
+Caribbean and applications to wadi flooding on the Egyptian 
+Red Sea coast. In Proceedings of the PERSGA Sea to Sea 
+Second Regional Forum; 2005.
+[7] Tourism-Development-Authority, 
+Red-Sea-Sustainable-Tourism-Initiative-(RSSTI). Best practi
+ces for solid waste management in Red Sea tourism centers. 
+2004.
+[8] USAID, PA-Consulting-Group, Chemonics-International. 
+Enhancing Sustainable Tourism in the Southern Red Sea 
+Region of Egypt. 2008.
+[9] Abdelhalim K, Abu-Samra M, El-Setouhy H, Gohar A, 
+Ibrahim N, Khairy T, et al. Urban Manifesto of Egypt. 2012.
